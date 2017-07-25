@@ -2,7 +2,7 @@
 * Une puce
 * Une autre puce
     * Une sous-puce
-		* Une sous-puce
+		* Une sous sous-puce
     * Une autre sous-puce
 * Et encore une autre puce !
 
